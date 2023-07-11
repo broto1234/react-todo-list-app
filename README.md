@@ -137,9 +137,11 @@ git push  -u origin main
 Then `Add New` > `project` >  react-github-user-search  `Import`> `Deploy`.
 
 Initial look:
+
 ![todoList 3 1](https://github.com/broto1234/react-todo-list-app/assets/73961811/4715e763-6286-4970-9ec5-9cd134c52094)
 
 If you add some lists here, final look of the project will be like this:
+
 ![todoList 3 2](https://github.com/broto1234/react-todo-list-app/assets/73961811/6659653a-5fa5-49b6-b52b-f333c9486bae)
 
 ## Learn More
