@@ -83,7 +83,7 @@ pnpm dev
 
 Open `http://localhost:5173/` with your browser to see the result.
 
-**Step 2.** create some components in src file:
+**Step 2.** create some components in src folder:
 
 ![todoList 1](https://github.com/broto1234/react-todo-list-app/assets/73961811/c77c0c77-e4ef-483c-a8ea-3e001a634a53)
 
