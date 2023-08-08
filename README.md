@@ -1,7 +1,7 @@
 # react-todo-list-app
 This is a **Todo List** app with Vite+React.js, and tailwindcss hosted on Vercel (https://react-todo-list-app-kappa.vercel.app/).
 
-## Getting Started
+## Getting Started 
 **Step 1.**
 
 With NPM:
